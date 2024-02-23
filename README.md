@@ -1,6 +1,5 @@
 ## Digilab Task </br>
  <div align='center'>
-    <a href="https://dashbord-smoky-pi.vercel.app"> 🌐 Live 🌐</a> </div> </br>
     <a href="https://next-admin-dashbord.netlify.app"> 🌐 Live 🌐</a> </div> </br>
 
 ## Tech Stack Used
